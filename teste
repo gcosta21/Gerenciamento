@@ -1,7 +1,7 @@
 echo "# Gerenciamento" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "primeiro trabalho"
 git branch -M main
 git remote add origin https://github.com/gcosta21/Gerenciamento.git
 git push -u origin main
